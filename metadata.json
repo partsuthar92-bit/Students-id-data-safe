@@ -1,0 +1,6 @@
+{
+  "name": "Global Student AI Assistance App",
+  "description": "Multi-language AI study companion, OCR ID verification, grade-customized tutoring, and FastAPI & Flutter master blueprint hub.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
